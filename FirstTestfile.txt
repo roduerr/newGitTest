@@ -1,1 +1,3 @@
 First file in project newGitTest.
+Some changes made in the 2. repository on githubtest2.
+Hello githubtest1!
